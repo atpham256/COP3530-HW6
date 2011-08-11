@@ -1,0 +1,7 @@
+Data Structures Homework #6
+
+To compile:
+make all
+
+To clean:
+make clean
